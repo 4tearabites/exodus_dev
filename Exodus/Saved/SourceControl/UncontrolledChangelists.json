@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/laule/OneDrive/Documents/GitHub/exodus_dev/Exodus/Content/Blueprints/GenerativeTiles/BP_HexGrid.uasset",
+				"C:/Users/laule/OneDrive/Documents/GitHub/exodus_dev/Exodus/Content/Blueprints/GenerativeTiles/BP_HexTile.uasset",
+				"C:/Users/laule/OneDrive/Documents/GitHub/exodus_dev/Exodus/Content/Blueprints/GenerativeTiles/BP_CubeTile.uasset",
+				"C:/Users/laule/OneDrive/Documents/GitHub/exodus_dev/Exodus/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/laule/OneDrive/Documents/GitHub/exodus_dev/Exodus/Content/Blueprints/GenerativeTiles/hexagon.uasset",
 				"F:/GitHub/exodus_dev/Exodus/Content/Textures/cat.uasset",
 				"D:/Starter Kits/StudioTP_Starter/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"D:/Starter Kits/StudioTP_Starter/Content/ThirdPerson/Input/IMC_Default.uasset",
