@@ -1,0 +1,112 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/TileDebugLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0400EAD040BF042EF0F84B842F34E221 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_14857F53C79882EA01_2007804143 Label:Plane2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-255.000 Y=-605.000 Z=-220.000), Max=(X=5595.000 Y=5245.000 Z=-220.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:2CABC992465523385AE3BEBB222102F0 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:33BC7E8A407DD244DC6F78BE30E14C66 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:59629DF54E2EA857412D84941897EE1F BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:64FBADE9495F37BFA572C79FE9614947 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_34735AEE4C2100EA01_2050113263 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1630.000 Y=-1140.000 Z=780.000), Max=(X=1630.000 Y=-1140.000 Z=780.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6D94331347F02C17292433AC0CDE7AB4 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:7000FD0A4F65D483CAB2579D7343B4E5 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-150.000 Y=-780.000 Z=480.013), Max=(X=-70.000 Y=-700.000 Z=664.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:782DCD2445BF2A0963A95DB59662A4D5 BaseClass:/Game/Blueprints/GenerativeTiles/BP_HexGrid.BP_HexGrid_C NativeClass:/Script/Engine.Actor Name:BP_HexGrid_C_UAID_34735AEE4C2158DD01_1242789025 Label:BP_HexGrid SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-249.808 Y=-480.000 Z=-942.145), Max=(X=5231.904 Y=4438.900 Z=511.593) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:78BAAA1E418BF7BA014118A4FD6CBE9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:7C345357402913C5D87F61817670B28D BaseClass:/Game/Blueprints/ActorBlueprints/BP_Alaria.BP_Alaria_C NativeClass:/Script/Engine.Actor Name:BP_Alaria_C_UAID_14857F53C79839EA01_1616149295 Label:BP_Alaria SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4930.000 Y=4249.196 Z=-390.588), Max=(X=4990.000 Y=4310.804 Z=609.412) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7D7E27644856B21F8D1BF794D8C69BA4 BaseClass:/Game/Blueprints/FogOfWar/BP_FogOfWar.BP_FogOfWar_C NativeClass:/Script/Engine.Actor Name:BP_FogOfWar_C_UAID_34735AEE4C213DEA01_1620981001 Label:BP_FogOfWar SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9460.000 Y=-10260.000 Z=802.000), Max=(X=14540.000 Y=13740.000 Z=802.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A46347D34ED0C6828C4BB4A971630648 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:BF7F251A4B5F949AEDF5A8801571D67D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_34735AEE4C2100EA01_2051130264 Label:StaticMeshActor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=930.000 Y=-870.000 Z=780.000), Max=(X=930.000 Y=-870.000 Z=780.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DC3598074A8F093B7C3E7AB7355A55B2 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:F71E4D8641E9F54E93B980B49349E998 BaseClass:/Game/Blueprints/ActorBlueprints/PickupBP.PickupBP_C NativeClass:/Script/Engine.Actor Name:PickupBP_C_UAID_34735AEE4C21FA9C01_1358466895 Label:PickupBP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1116.000 Y=935.600 Z=-16.000), Max=(X=1424.000 Y=1204.400 Z=236.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F97047BE4B19FDC525AC8D85B6C96FAA BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:59629DF54E2EA857412D84941897EE1F BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:6D94331347F02C17292433AC0CDE7AB4 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:7D7E27644856B21F8D1BF794D8C69BA4 BaseClass:/Game/Blueprints/FogOfWar/BP_FogOfWar.BP_FogOfWar_C NativeClass:/Script/Engine.Actor Name:BP_FogOfWar_C_UAID_34735AEE4C213DEA01_1620981001 Label:BP_FogOfWar SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9460.000 Y=-10260.000 Z=802.000), Max=(X=14540.000 Y=13740.000 Z=802.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:A46347D34ED0C6828C4BB4A971630648 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:7C345357402913C5D87F61817670B28D BaseClass:/Game/Blueprints/ActorBlueprints/BP_Alaria.BP_Alaria_C NativeClass:/Script/Engine.Actor Name:BP_Alaria_C_UAID_14857F53C79839EA01_1616149295 Label:BP_Alaria SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4930.000 Y=4249.196 Z=-390.588), Max=(X=4990.000 Y=4310.804 Z=609.412) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:33BC7E8A407DD244DC6F78BE30E14C66 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:782DCD2445BF2A0963A95DB59662A4D5 BaseClass:/Game/Blueprints/GenerativeTiles/BP_HexGrid.BP_HexGrid_C NativeClass:/Script/Engine.Actor Name:BP_HexGrid_C_UAID_34735AEE4C2158DD01_1242789025 Label:BP_HexGrid SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-249.808 Y=-480.000 Z=-942.145), Max=(X=5231.904 Y=4438.900 Z=511.593) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:F71E4D8641E9F54E93B980B49349E998 BaseClass:/Game/Blueprints/ActorBlueprints/PickupBP.PickupBP_C NativeClass:/Script/Engine.Actor Name:PickupBP_C_UAID_34735AEE4C21FA9C01_1358466895 Label:PickupBP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1116.000 Y=935.600 Z=-16.000), Max=(X=1424.000 Y=1204.400 Z=236.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:7000FD0A4F65D483CAB2579D7343B4E5 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-150.000 Y=-780.000 Z=480.013), Max=(X=-70.000 Y=-700.000 Z=664.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:0400EAD040BF042EF0F84B842F34E221 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_14857F53C79882EA01_2007804143 Label:Plane2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-255.000 Y=-605.000 Z=-220.000), Max=(X=5595.000 Y=5245.000 Z=-220.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:78BAAA1E418BF7BA014118A4FD6CBE9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:64FBADE9495F37BFA572C79FE9614947 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_34735AEE4C2100EA01_2050113263 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1630.000 Y=-1140.000 Z=780.000), Max=(X=1630.000 Y=-1140.000 Z=780.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:DC3598074A8F093B7C3E7AB7355A55B2 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:2CABC992465523385AE3BEBB222102F0 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:BF7F251A4B5F949AEDF5A8801571D67D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_34735AEE4C2100EA01_2051130264 Label:StaticMeshActor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=930.000 Y=-870.000 Z=780.000), Max=(X=930.000 Y=-870.000 Z=780.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:F97047BE4B19FDC525AC8D85B6C96FAA BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/TileDebugLevel
+----------------------------------------------------------------------------------------------------------------
+TileDebugLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 5 
+
+----------------------------------------------------------------------------------------------------------------
+TileDebugLevel - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count   16 (100.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 16
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.SkyAtmosphere_0
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/2/FF/1RU6ZJ5WF5FCWLD0PXXVN4
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.VolumetricCloud_0
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/3/H8/67Y2UKXT14M8N427H9QYSK
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.BP_FogOfWar_C_UAID_34735AEE4C213DEA01_1620981001
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/3/WH/7I4DLBTQWH3ZCN00POZJ5N
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.SkyLight_1
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/4/C9/0D54L0WBGBCB5O63A8SH8J
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.BP_Alaria_C_UAID_14857F53C79839EA01_1616149295
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/4/UK/CY1KVFEZCSFBEKE7CTGOSQ
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.WorldDataLayers
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/5/4T/41ALX98CLXNYSJP4RD9NW0
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.BP_HexGrid_C_UAID_34735AEE4C2158DD01_1242789025
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/5/7B/17P7MPHFDP780OBN3L8Q4E
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.PickupBP_C_UAID_34735AEE4C21FA9C01_1358466895
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/5/8J/IRW3GCNQFKYHIDU5M2RK1P
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.PlayerStart_0
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/6/XL/FAHSQV0C1PHBTXCYG07EZV
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.StaticMeshActor_UAID_14857F53C79882EA01_2007804143
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/8/21/YR14AQ7FPX9TIWHVL885I1
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/8/LF/UTCCQHAMWONJ6Q9A0LX08Q
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.StaticMeshActor_UAID_34735AEE4C2100EA01_2050113263
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/A/Z9/IQXNSS29NG8U464NANIDKU
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.ExponentialHeightFog_0
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/C/P3/54EKKUFWH8VHVTI1Z8PE6E
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.DirectionalLight_0
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/C/SJ/7NPM6A5SRRWYH77AVNMKKO
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.StaticMeshActor_UAID_34735AEE4C2100EA01_2051130264
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/D/KG/TY02YSXJ335XOFLJX7XAC6
+ |   |- Actor Path: /Game/ThirdPerson/Maps/TileDebugLevel.TileDebugLevel:PersistentLevel.PostProcessVolume_0
+ |   |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/TileDebugLevel/E/R7/8S0KMD899DDTQPFFHG76MA
+
