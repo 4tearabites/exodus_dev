@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\github\\exodus_dev\\exodus\\intermediate\\source\\exodus.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\github\\exodus_dev\\exodus\\intermediate\\build\\win64\\x64\\exodus\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "f:\\github\\exodus_dev\\exodus\\intermediate\\build\\win64\\x64\\unrealgame\\development\\exodus\\definitions.exodus.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
