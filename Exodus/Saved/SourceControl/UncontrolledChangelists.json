@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub/exodus_dev/Exodus/Content/DataTables/DT_EventGen_General.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/GridMaterial.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/Plane.uasset",
 				"C:/Users/Zacha/OneDrive/Documents/GitHub/exodus_dev/Exodus/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
