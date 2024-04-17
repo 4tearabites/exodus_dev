@@ -1361,6 +1361,10 @@
 			"ChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
+			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Surface_Material_VT/Functions/MF_Displacement.uasset",
+			"ChunkId": "9f7f181699cbcd0100000001"
+		},
+		{
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
 			"ChunkId": "efd3b99beb745ea100000001"
 		},
@@ -1501,6 +1505,14 @@
 			"ChunkId": "f1ebd6418dba317a00000001"
 		},
 		{
+			"Path": "exodus/Content/Audio/Music/Alaria_Ambient.uasset",
+			"ChunkId": "f80c88ee8b8865fa00000001"
+		},
+		{
+			"Path": "exodus/Content/Audio/Music/Alaria_Ambient.ubulk",
+			"ChunkId": "f80c88ee8b8865fa00000002"
+		},
+		{
 			"Path": "exodus/Content/Audio/Music/Alaria_mainMenu_v1__1_.uasset",
 			"ChunkId": "6dc8e86785a86f6700000001"
 		},
@@ -1557,6 +1569,10 @@
 			"ChunkId": "b2f6668f6f858d1f00000001"
 		},
 		{
+			"Path": "exodus/Content/Blueprints/GameInstanceBP.uasset",
+			"ChunkId": "ea02f176e5fb17f600000001"
+		},
+		{
 			"Path": "exodus/Content/Blueprints/GenerativeTiles/AC_tileData.uasset",
 			"ChunkId": "85e419e822eed45600000001"
 		},
@@ -1589,16 +1605,12 @@
 			"ChunkId": "cc445edaa346af5b00000001"
 		},
 		{
-			"Path": "exodus/Content/Blueprints/Sprite_FaceCamera/Test_Sprite.uasset",
-			"ChunkId": "af84e0c3186a397e00000001"
+			"Path": "exodus/Content/Blueprints/Tile_Textures/Asset_Textures/Alphas/Alpha_Rock.uasset",
+			"ChunkId": "072546a24620f24c00000001"
 		},
 		{
 			"Path": "exodus/Content/Blueprints/Tile_Textures/Asset_Textures/Alphas/Alpha_Tree.uasset",
 			"ChunkId": "f9800f65b2e6079d00000001"
-		},
-		{
-			"Path": "exodus/Content/Blueprints/Tile_Textures/Asset_Textures/Alphas/stoneCircle_Asset_Alpha.uasset",
-			"ChunkId": "0721b170a084814800000001"
 		},
 		{
 			"Path": "exodus/Content/Blueprints/Tile_Textures/Asset_Textures/Materials/Rock_Material.uasset",
@@ -1609,8 +1621,8 @@
 			"ChunkId": "3942eb810dc7495300000001"
 		},
 		{
-			"Path": "exodus/Content/Blueprints/Tile_Textures/Asset_Textures/PNGs/stoneCircle_Asset.uasset",
-			"ChunkId": "452a3fcb35ddcc8200000001"
+			"Path": "exodus/Content/Blueprints/Tile_Textures/Asset_Textures/PNGs/Rock_Asset.uasset",
+			"ChunkId": "817ec8822b92d55a00000001"
 		},
 		{
 			"Path": "exodus/Content/Blueprints/Tile_Textures/Asset_Textures/PNGs/Tree_Texture.uasset",
@@ -1657,12 +1669,8 @@
 			"ChunkId": "d5654b7eba65db3200000002"
 		},
 		{
-			"Path": "exodus/Content/Blueprints/Tile_Textures/Water_Texture.uasset",
-			"ChunkId": "3ae07883aad1d19600000001"
-		},
-		{
-			"Path": "exodus/Content/Blueprints/Tile_Textures/Water_Texture.ubulk",
-			"ChunkId": "3ae07883aad1d19600000002"
+			"Path": "exodus/Content/Blueprints/Tutorial_Interface.uasset",
+			"ChunkId": "10e0e371733735eb00000001"
 		},
 		{
 			"Path": "exodus/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
@@ -2061,6 +2069,50 @@
 			"ChunkId": "76414a1d577db14f00000001"
 		},
 		{
+			"Path": "exodus/Content/Characters/Models/MAT_PlayerPiece.uasset",
+			"ChunkId": "0f75e173f294ba2900000001"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/Player_Piece_3.uasset",
+			"ChunkId": "75a50fbc372f6e3d00000001"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/Player_Piece_3.ubulk",
+			"ChunkId": "75a50fbc372f6e3d00000002"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/standardSurface1_Base_color.uasset",
+			"ChunkId": "b52dfbbadb46e70100000001"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/standardSurface1_Base_color.ubulk",
+			"ChunkId": "b52dfbbadb46e70100000002"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/standardSurface1_Metallic.uasset",
+			"ChunkId": "5ff7004fbab78c2500000001"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/standardSurface1_Metallic.ubulk",
+			"ChunkId": "5ff7004fbab78c2500000002"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/standardSurface1_Normal_OpenGL.uasset",
+			"ChunkId": "41e0904c6f55dbd000000001"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/standardSurface1_Normal_OpenGL.ubulk",
+			"ChunkId": "41e0904c6f55dbd000000002"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/standardSurface1_Roughness.uasset",
+			"ChunkId": "0bcfe47614e53a3400000001"
+		},
+		{
+			"Path": "exodus/Content/Characters/Models/standardSurface1_Roughness.ubulk",
+			"ChunkId": "0bcfe47614e53a3400000002"
+		},
+		{
 			"Path": "exodus/Content/DataTables/DT_EventGen_General.uasset",
 			"ChunkId": "a81a06c5376790ac00000001"
 		},
@@ -2117,6 +2169,22 @@
 			"ChunkId": "218c7199caa763f000000001"
 		},
 		{
+			"Path": "exodus/Content/Movies/CandlePlayer.uasset",
+			"ChunkId": "76c74a75aa3edd6b00000001"
+		},
+		{
+			"Path": "exodus/Content/Movies/CandlePlayer_Video.uasset",
+			"ChunkId": "f5445e7034e8913100000001"
+		},
+		{
+			"Path": "exodus/Content/Movies/CandlePlayer_Video_Mat.uasset",
+			"ChunkId": "58c7eca1c2bfe8ec00000001"
+		},
+		{
+			"Path": "exodus/Content/Movies/Intro_Candle.uasset",
+			"ChunkId": "c3b15d797ba37f2e00000001"
+		},
+		{
 			"Path": "exodus/Content/StarterContent/Materials/M_Basic_Wall.uasset",
 			"ChunkId": "47896da37f90de9000000001"
 		},
@@ -2167,6 +2235,14 @@
 		{
 			"Path": "exodus/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk",
 			"ChunkId": "13b59ee4823c624200000002"
+		},
+		{
+			"Path": "exodus/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset",
+			"ChunkId": "03b6338038ae6e4900000001"
+		},
+		{
+			"Path": "exodus/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk",
+			"ChunkId": "03b6338038ae6e4900000002"
 		},
 		{
 			"Path": "exodus/Content/ThirdPerson/Blueprints/BP_3rdpersonPlayerController.uasset",
@@ -2257,20 +2333,32 @@
 			"ChunkId": "13df6b58cd036ed900000001"
 		},
 		{
+			"Path": "exodus/Content/UIUX/Images/EtA_Resource_Scroll_4-16-2024.uasset",
+			"ChunkId": "c9e62fc32fc4fb1c00000001"
+		},
+		{
 			"Path": "exodus/Content/UIUX/Images/Event_Choice_Button_4-9-2024.uasset",
 			"ChunkId": "55b3fdad54a1a27c00000001"
+		},
+		{
+			"Path": "exodus/Content/UIUX/Images/Event_Choice_Button_Highlighted_4-16-2024.uasset",
+			"ChunkId": "ab3556d0c7010feb00000001"
 		},
 		{
 			"Path": "exodus/Content/UIUX/Images/Event_Tablet_4-9-2024.uasset",
 			"ChunkId": "159b19ae1d45d25f00000001"
 		},
 		{
-			"Path": "exodus/Content/UIUX/Images/exodusofalaria_TempLogo.uasset",
-			"ChunkId": "1750d76a249fbf0900000001"
-		},
-		{
 			"Path": "exodus/Content/UIUX/Images/Gameplay_Loop_Button_4-9-2024.uasset",
 			"ChunkId": "31d939f0e19654d200000001"
+		},
+		{
+			"Path": "exodus/Content/UIUX/Images/Gameplay_Loop_Button_Highlighted_4-16-2024.uasset",
+			"ChunkId": "1ed59e36b6e947de00000001"
+		},
+		{
+			"Path": "exodus/Content/UIUX/Images/title.uasset",
+			"ChunkId": "58a2111b73779f8100000001"
 		},
 		{
 			"Path": "exodus/Content/UIUX/PlayScreen.uasset",
@@ -2289,6 +2377,14 @@
 			"ChunkId": "d51382aa3669a5cc00000001"
 		},
 		{
+			"Path": "exodus/Content/UIUX/UI_IntroAndOutro.uasset",
+			"ChunkId": "f55aee7110f7bd8c00000001"
+		},
+		{
+			"Path": "exodus/Content/UIUX/UI_LoseScreen.uasset",
+			"ChunkId": "56962ae91e7b742c00000001"
+		},
+		{
 			"Path": "exodus/Content/UIUX/UI_MainMenu.uasset",
 			"ChunkId": "4fc070784fbadeda00000001"
 		},
@@ -2297,11 +2393,21 @@
 			"ChunkId": "d18de17010a306d000000001"
 		},
 		{
+			"Path": "exodus/Content/UIUX/UI_Tutorial.uasset",
+			"ChunkId": "2e1d62fdf5a99d0000000001"
+		},
+		{
 			"Path": "exodus/Content/UIUX/UI_WinScreen.uasset",
 			"ChunkId": "5875cbda2265bd2e00000001"
 		}
 	],
 	"Packages": [
+		{
+			"Name": "/Bridge/MSPresets/M_MS_Surface_Material_VT/Functions/MF_Displacement",
+			"ExportBundleChunkIds": [
+				"9f7f181699cbcd0100000001"
+			]
+		},
 		{
 			"Name": "/ControlRig/Controls/ControlRig_Arrow2_1mm",
 			"ExportBundleChunkIds": [
@@ -4008,6 +4114,15 @@
 			]
 		},
 		{
+			"Name": "/Game/Audio/Music/Alaria_Ambient",
+			"ExportBundleChunkIds": [
+				"f80c88ee8b8865fa00000001"
+			],
+			"BulkDataChunkIds": [
+				"f80c88ee8b8865fa00000002"
+			]
+		},
+		{
 			"Name": "/Game/Audio/Music/Alaria_mainMenu_v1__1_",
 			"ExportBundleChunkIds": [
 				"6dc8e86785a86f6700000001"
@@ -4083,6 +4198,12 @@
 			]
 		},
 		{
+			"Name": "/Game/Blueprints/GameInstanceBP",
+			"ExportBundleChunkIds": [
+				"ea02f176e5fb17f600000001"
+			]
+		},
+		{
 			"Name": "/Game/Blueprints/GenerativeTiles/AC_tileData",
 			"ExportBundleChunkIds": [
 				"85e419e822eed45600000001"
@@ -4128,21 +4249,15 @@
 			]
 		},
 		{
-			"Name": "/Game/Blueprints/Sprite_FaceCamera/Test_Sprite",
+			"Name": "/Game/Blueprints/Tile_Textures/Asset_Textures/Alphas/Alpha_Rock",
 			"ExportBundleChunkIds": [
-				"af84e0c3186a397e00000001"
+				"072546a24620f24c00000001"
 			]
 		},
 		{
 			"Name": "/Game/Blueprints/Tile_Textures/Asset_Textures/Alphas/Alpha_Tree",
 			"ExportBundleChunkIds": [
 				"f9800f65b2e6079d00000001"
-			]
-		},
-		{
-			"Name": "/Game/Blueprints/Tile_Textures/Asset_Textures/Alphas/stoneCircle_Asset_Alpha",
-			"ExportBundleChunkIds": [
-				"0721b170a084814800000001"
 			]
 		},
 		{
@@ -4158,9 +4273,9 @@
 			]
 		},
 		{
-			"Name": "/Game/Blueprints/Tile_Textures/Asset_Textures/PNGs/stoneCircle_Asset",
+			"Name": "/Game/Blueprints/Tile_Textures/Asset_Textures/PNGs/Rock_Asset",
 			"ExportBundleChunkIds": [
-				"452a3fcb35ddcc8200000001"
+				"817ec8822b92d55a00000001"
 			]
 		},
 		{
@@ -4215,12 +4330,9 @@
 			]
 		},
 		{
-			"Name": "/Game/Blueprints/Tile_Textures/Water_Texture",
+			"Name": "/Game/Blueprints/Tutorial_Interface",
 			"ExportBundleChunkIds": [
-				"3ae07883aad1d19600000001"
-			],
-			"BulkDataChunkIds": [
-				"3ae07883aad1d19600000002"
+				"10e0e371733735eb00000001"
 			]
 		},
 		{
@@ -4755,6 +4867,57 @@
 			]
 		},
 		{
+			"Name": "/Game/Characters/Models/MAT_PlayerPiece",
+			"ExportBundleChunkIds": [
+				"0f75e173f294ba2900000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Models/Player_Piece_3",
+			"ExportBundleChunkIds": [
+				"75a50fbc372f6e3d00000001"
+			],
+			"BulkDataChunkIds": [
+				"75a50fbc372f6e3d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Models/standardSurface1_Base_color",
+			"ExportBundleChunkIds": [
+				"b52dfbbadb46e70100000001"
+			],
+			"BulkDataChunkIds": [
+				"b52dfbbadb46e70100000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Models/standardSurface1_Metallic",
+			"ExportBundleChunkIds": [
+				"5ff7004fbab78c2500000001"
+			],
+			"BulkDataChunkIds": [
+				"5ff7004fbab78c2500000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Models/standardSurface1_Normal_OpenGL",
+			"ExportBundleChunkIds": [
+				"41e0904c6f55dbd000000001"
+			],
+			"BulkDataChunkIds": [
+				"41e0904c6f55dbd000000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Models/standardSurface1_Roughness",
+			"ExportBundleChunkIds": [
+				"0bcfe47614e53a3400000001"
+			],
+			"BulkDataChunkIds": [
+				"0bcfe47614e53a3400000002"
+			]
+		},
+		{
 			"Name": "/Game/DataTables/DT_EventGen_General",
 			"ExportBundleChunkIds": [
 				"a81a06c5376790ac00000001"
@@ -4839,6 +5002,30 @@
 			]
 		},
 		{
+			"Name": "/Game/Movies/CandlePlayer",
+			"ExportBundleChunkIds": [
+				"76c74a75aa3edd6b00000001"
+			]
+		},
+		{
+			"Name": "/Game/Movies/CandlePlayer_Video",
+			"ExportBundleChunkIds": [
+				"f5445e7034e8913100000001"
+			]
+		},
+		{
+			"Name": "/Game/Movies/CandlePlayer_Video_Mat",
+			"ExportBundleChunkIds": [
+				"58c7eca1c2bfe8ec00000001"
+			]
+		},
+		{
+			"Name": "/Game/Movies/Intro_Candle",
+			"ExportBundleChunkIds": [
+				"c3b15d797ba37f2e00000001"
+			]
+		},
+		{
 			"Name": "/Game/StarterContent/Materials/M_Basic_Wall",
 			"ExportBundleChunkIds": [
 				"47896da37f90de9000000001"
@@ -4899,6 +5086,15 @@
 			],
 			"BulkDataChunkIds": [
 				"13b59ee4823c624200000002"
+			]
+		},
+		{
+			"Name": "/Game/StarterContent/Textures/T_Perlin_Noise_M",
+			"ExportBundleChunkIds": [
+				"03b6338038ae6e4900000001"
+			],
+			"BulkDataChunkIds": [
+				"03b6338038ae6e4900000002"
 			]
 		},
 		{
@@ -5034,9 +5230,21 @@
 			]
 		},
 		{
+			"Name": "/Game/UIUX/Images/EtA_Resource_Scroll_4-16-2024",
+			"ExportBundleChunkIds": [
+				"c9e62fc32fc4fb1c00000001"
+			]
+		},
+		{
 			"Name": "/Game/UIUX/Images/Event_Choice_Button_4-9-2024",
 			"ExportBundleChunkIds": [
 				"55b3fdad54a1a27c00000001"
+			]
+		},
+		{
+			"Name": "/Game/UIUX/Images/Event_Choice_Button_Highlighted_4-16-2024",
+			"ExportBundleChunkIds": [
+				"ab3556d0c7010feb00000001"
 			]
 		},
 		{
@@ -5046,15 +5254,21 @@
 			]
 		},
 		{
-			"Name": "/Game/UIUX/Images/exodusofalaria_TempLogo",
-			"ExportBundleChunkIds": [
-				"1750d76a249fbf0900000001"
-			]
-		},
-		{
 			"Name": "/Game/UIUX/Images/Gameplay_Loop_Button_4-9-2024",
 			"ExportBundleChunkIds": [
 				"31d939f0e19654d200000001"
+			]
+		},
+		{
+			"Name": "/Game/UIUX/Images/Gameplay_Loop_Button_Highlighted_4-16-2024",
+			"ExportBundleChunkIds": [
+				"1ed59e36b6e947de00000001"
+			]
+		},
+		{
+			"Name": "/Game/UIUX/Images/title",
+			"ExportBundleChunkIds": [
+				"58a2111b73779f8100000001"
 			]
 		},
 		{
@@ -5082,6 +5296,18 @@
 			]
 		},
 		{
+			"Name": "/Game/UIUX/UI_IntroAndOutro",
+			"ExportBundleChunkIds": [
+				"f55aee7110f7bd8c00000001"
+			]
+		},
+		{
+			"Name": "/Game/UIUX/UI_LoseScreen",
+			"ExportBundleChunkIds": [
+				"56962ae91e7b742c00000001"
+			]
+		},
+		{
 			"Name": "/Game/UIUX/UI_MainMenu",
 			"ExportBundleChunkIds": [
 				"4fc070784fbadeda00000001"
@@ -5091,6 +5317,12 @@
 			"Name": "/Game/UIUX/UI_Pause",
 			"ExportBundleChunkIds": [
 				"d18de17010a306d000000001"
+			]
+		},
+		{
+			"Name": "/Game/UIUX/UI_Tutorial",
+			"ExportBundleChunkIds": [
+				"2e1d62fdf5a99d0000000001"
 			]
 		},
 		{

@@ -8,12 +8,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A36785B6EC8E3DC139B79E2BA0BC8F905E1FCC0A",
-			"Assets": [
-				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "9AABB121A5F0414CE24A730825840A6E176793A1",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
@@ -47,6 +41,12 @@
 			"ShaderMapHash": "DF2DB0100B64E259574C666DDB4AD4554ECB1B0E",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A36785B6EC8E3DC139B79E2BA0BC8F905E1FCC0A",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
 			]
 		},
 		{
@@ -110,19 +110,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F4777F5D769EDAD7133C830D301D3B1C87E6DCED",
-			"Assets": [
-				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
-			]
-		},
-		{
-			"ShaderMapHash": "E2A79799CFEB02EBDFBFFE3996358AFB19DB2086",
-			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_VT",
-				"/Engine/EngineMaterials/FlattenMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "6A02DF5F80B74956B5E7ED831592AB07F5B1ADBA",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
@@ -138,6 +125,13 @@
 			"ShaderMapHash": "F6E520724707F02567469AF2E212F38387015A04",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E2A79799CFEB02EBDFBFFE3996358AFB19DB2086",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
 			]
 		},
 		{
@@ -178,6 +172,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F4777F5D769EDAD7133C830D301D3B1C87E6DCED",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
 			"ShaderMapHash": "9E867C914021CE07C011D2B7148B5398ED8900EA",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
@@ -193,6 +193,12 @@
 			"ShaderMapHash": "EAB24F49231FDAA2EF43F605DA440829D6731BC1",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CB2BD1D364F351A84166A86B1C9DF3B76C001C0F",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
@@ -220,21 +226,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9EC1BC5CF95C7BC7870FCFABE0B19F5E17FA5A74",
+			"ShaderMapHash": "F224DFD84791C1F7B7D586195CE265CBD21C94BF",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Steel"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
 			]
 		},
 		{
-			"ShaderMapHash": "CB2BD1D364F351A84166A86B1C9DF3B76C001C0F",
+			"ShaderMapHash": "139A01BF04ED55BB18AD4DA93C4C5876DC3D0449",
 			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
 			]
 		},
 		{
 			"ShaderMapHash": "CB490740ADCD3742276E69EA8A104F63E0A8A14B",
 			"Assets": [
 				"/Game/Blueprints/FogOfWar/FOW_GameActorMat"
+			]
+		},
+		{
+			"ShaderMapHash": "4AA87EC989009AAC1FDB58E51C3473841F1CF7D2",
+			"Assets": [
+				"/Game/Characters/Models/MAT_PlayerPiece"
 			]
 		},
 		{
@@ -250,27 +262,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9EC1BC5CF95C7BC7870FCFABE0B19F5E17FA5A74",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
 			"ShaderMapHash": "06658B4FD2DA0303B482D1AA71066A54B098E4E7",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "F224DFD84791C1F7B7D586195CE265CBD21C94BF",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
-			]
-		},
-		{
-			"ShaderMapHash": "139A01BF04ED55BB18AD4DA93C4C5876DC3D0449",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
-			]
-		},
-		{
 			"ShaderMapHash": "2440A10CF71909F8BC25630C4523A97C433C63E0",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "AE79D63A1BD85EFAEF30A3DB7BF009765523B381",
+			"Assets": [
+				"/Game/Movies/CandlePlayer_Video_Mat"
 			]
 		},
 		{
@@ -286,12 +298,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2FFB115DFD6309BD6D694589FCA1CBBE42CB769D",
-			"Assets": [
-				"/ControlRig/Controls/ControlRigGizmoMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "92C14FAAF86AA8D6A9AB0FE78C49B1E9CF5B71A5",
 			"Assets": [
 				"/Game/Characters/Mannequins/Materials/M_Mannequin"
@@ -304,9 +310,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D7B3AB729829B9D76A578E061494398A2552E335",
+			"ShaderMapHash": "2FFB115DFD6309BD6D694589FCA1CBBE42CB769D",
 			"Assets": [
-				"/Game/Blueprints/Sprite_FaceCamera/Test_Sprite"
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
 			]
 		},
 		{
@@ -316,21 +322,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "77E0E7B632C6ED56AB020CD56057B7BEE7C7488C",
+			"ShaderMapHash": "CC8EDA749771EBA612873ED86E2E9C53CF071596",
 			"Assets": [
 				"/Game/Materials/M_HexTile_InstanceMesh"
-			]
-		},
-		{
-			"ShaderMapHash": "2AF563684A497144C710ED90AC2318457559B973",
-			"Assets": [
-				"/Engine/EngineSky/M_SimpleSkyDome"
-			]
-		},
-		{
-			"ShaderMapHash": "8DE69CC9A7232D12C8C1B4EDCADED361F7C0AA73",
-			"Assets": [
-				"/Game/Materials/M_FogOfWar"
 			]
 		},
 		{
@@ -341,13 +335,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "236BA1B888EFDBBC859E5C4A8374300A1D6C8DFB",
+			"ShaderMapHash": "B507C6DD400D6A94492D8476082BC3B92EBA844E",
 			"Assets": [
 				"/Game/Materials/M_HexTile"
 			]
 		},
 		{
-			"ShaderMapHash": "5B9CA51799B9AFD695017CEF21F84AF9429CE6AE",
+			"ShaderMapHash": "184BAC22518AA18BD95A4B1DBD1DC62340049633",
 			"Assets": [
 				"/Game/Materials/M_HexTileBlight"
 			]
@@ -365,6 +359,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8DE69CC9A7232D12C8C1B4EDCADED361F7C0AA73",
+			"Assets": [
+				"/Game/Materials/M_FogOfWar"
+			]
+		},
+		{
 			"ShaderMapHash": "01244A7A9407F463304ACE636E64C78C5451FBE7",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
@@ -374,6 +374,12 @@
 			"ShaderMapHash": "57CF7A161E7FCE9339695264F18EA1B794229F96",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "2AF563684A497144C710ED90AC2318457559B973",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
 			]
 		}
 	]
