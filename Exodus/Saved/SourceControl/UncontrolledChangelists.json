@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/GitHub/exodus_dev/Exodus/Content/DataTables/DT_EventGen_General.uasset",
+				"E:/GitHub/exodus_dev/Exodus/Content/DataTables/DT_EventGen_Mountain.uasset",
+				"E:/GitHub/exodus_dev/Exodus/Content/DataTables/DT_EventGen_River.uasset",
+				"E:/GitHub/exodus_dev/Exodus/Content/DataTables/DT_EventGen_Wilderness.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMaterials/GridMaterial.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/Plane.uasset",
 				"C:/Users/laule/OneDrive/Documents/GitHub/exodus_dev/Exodus/Content/Blueprints/GenerativeTiles/BP_HexGrid.uasset",
